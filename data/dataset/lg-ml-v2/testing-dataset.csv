@@ -1,0 +1,51 @@
+age,gender,disability_status,school_category,attendance_rate,days_absent_last_semester,average_grade,household_size,orphan_status,family_income_bracket,parental_education_level,parental_employment_status,school_fee_payment_source,behavioral_infractions,suspensions,distance_to_school,transportation_time,transportation_mean,activities_participation,repetitions_in_class,current_class,previous_dropout_count,dropout_status
+18,Male,Physical,Secondary,29.8,33,23.88,12,Double,Very Low,Tertiary,Temporary Work,Other,3,0,5279.003548851888,52.8,Foot,0,3,S5,1,1
+8,Male,No Disability,Primary,82.7,5,59.96,4,Double,Low,Secondary,Full-Time,Sponsor,1,0,845.6158831615,1.7,Car,4,0,P6,0,0
+10,Male,No Disability,Primary,88.3,0,87.58,4,Double,Low,Secondary,Full-Time,Sponsor,2,0,2025.243087676285,6.8,Public Transport,5,0,P2,0,0
+8,Male,No Disability,Primary,75.9,0,59.96,6,Double,Low,Primary,Part-Time,Parents,1,0,1832.550745416701,6.1,Public Transport,3,1,P6,0,0
+10,Male,No Disability,Primary,71.6,4,89.74,4,Double,Low,Secondary,Part-Time,Other,0,0,667.3378870284148,1.3,Car,5,0,P5,0,0
+16,Female,No Disability,Secondary,90.7,2,78.39,4,Double,High,Tertiary,Full-Time,Other,0,1,1696.294697512443,5.7,Public Transport,5,1,S6,0,0
+21,Male,No Disability,Secondary,76.1,4,65.36,3,No Parents,Low,Secondary,Part-Time,Parents,0,1,1877.428292865262,18.8,Foot,5,0,S6,0,0
+11,Female,No Disability,Primary,70.8,4,66.44,4,Double,Low,Primary,Part-Time,Sponsor,0,1,1882.1044130622365,6.3,Public Transport,5,1,P4,0,0
+9,Male,No Disability,Primary,87.6,5,78.35,5,Double,High,Secondary,Part-Time,Sponsor,2,1,755.9295876212353,2.5,Public Transport,3,0,P4,1,0
+20,Female,No Disability,Secondary,72.8,2,64.85,3,Double,High,Primary,Self-Employed,Sponsor,1,0,2464.1271431565683,9.9,Bicycle,3,0,S4,0,0
+12,Male,No Disability,Primary,78.8,3,79.08,3,Single,High,Tertiary,Full-Time,Parents,1,1,1167.543631712676,3.9,Public Transport,3,0,P6,0,0
+18,Female,No Disability,Secondary,91.7,3,83.21,3,Double,High,Primary,Full-Time,Other,0,0,1546.2045362386425,3.1,Car,4,1,S5,0,0
+13,Female,No Disability,Primary,74.7,3,59.32,4,Double,High,Primary,Full-Time,Parents,0,0,766.693079557396,1.5,Car,5,0,P6,0,0
+12,Male,No Disability,Primary,41.0,27,48.37,10,Double,Impoverished,Secondary,Temporary Work,Parents,3,0,6573.918144243793,65.7,Foot,1,1,P2,0,1
+11,Male,Physical,Primary,36.8,16,39.94,11,Double,Impoverished,Non Schooled,Temporary Work,Parents,5,3,7127.645206320509,71.3,Foot,1,1,P6,0,1
+18,Female,No Disability,Secondary,35.6,35,44.86,8,Double,Low,Tertiary,Temporary Work,Other,4,3,8664.819912963823,86.6,Foot,2,2,S3,0,1
+11,Male,No Disability,Primary,85.7,4,92.58,6,No Parents,High,Secondary,Part-Time,Sponsor,1,1,1810.1576110029634,3.6,Car,5,0,P5,0,0
+12,Female,No Disability,Primary,88.6,4,52.89,6,Double,High,Tertiary,Part-Time,Sponsor,2,0,2490.3380282965995,10.0,Bicycle,3,0,P5,0,0
+7,Female,Learning,Primary,88.8,3,53.79,6,Double,Low,Primary,Self-Employed,Other,2,1,2663.85022147235,5.3,Car,4,1,P3,0,0
+20,Male,No Disability,Secondary,86.5,3,57.99,5,Double,Low,Secondary,Full-Time,Sponsor,2,1,2600.1019498036153,8.7,Public Transport,5,1,S5,0,0
+15,Female,No Disability,Secondary,78.2,4,87.15,4,Double,High,Primary,Full-Time,Other,1,1,1765.6068937470443,5.9,Public Transport,4,0,S5,0,0
+13,Male,Mental,Primary,23.3,30,28.68,12,Single,Very Low,Non Schooled,Full-Time,Parents,3,1,8089.830508591146,32.4,Bicycle,0,3,P3,0,1
+13,Female,No Disability,Primary,39.1,27,29.47,10,No Parents,Very Low,Tertiary,Temporary Work,Sponsor,5,2,6587.460633052113,65.9,Foot,2,1,P1,0,1
+17,Male,No Disability,Secondary,80.3,5,57.89,3,Double,High,Secondary,Full-Time,Parents,1,1,1289.0806520790015,12.9,Foot,5,0,S2,0,0
+10,Male,Learning,Primary,35.1,38,43.62,10,Double,Impoverished,Tertiary,Unemployed,Parents,7,0,8837.158839454616,88.4,Foot,1,2,P2,1,1
+19,Female,No Disability,Secondary,93.2,1,64.88,3,Single,Middle,Primary,Full-Time,Parents,2,0,2748.9773434517483,11.0,Bicycle,3,0,S2,0,0
+10,Female,No Disability,Primary,73.5,3,56.28,6,Single,Middle,Secondary,Part-Time,Sponsor,2,1,1573.7812159274788,15.7,Foot,5,0,P4,0,0
+8,Male,No Disability,Primary,72.4,1,84.79,3,No Parents,Low,Non Schooled,Full-Time,Sponsor,0,0,1520.5471219014012,5.1,Public Transport,3,0,P4,0,0
+8,Male,Physical,Primary,38.0,35,37.45,9,Single,Very Low,Non Schooled,Part-Time,Sponsor,5,3,5222.408943305779,52.2,Foot,1,2,P1,1,1
+16,Female,No Disability,Secondary,74.5,5,59.46,6,Double,High,Non Schooled,Self-Employed,Other,0,1,1847.461250793133,18.5,Foot,3,0,S6,0,0
+20,Female,Physical,Secondary,40.5,40,42.83,11,Double,Impoverished,Non Schooled,Temporary Work,Other,7,2,7853.4730822235615,78.5,Foot,0,1,S3,0,1
+16,Male,No Disability,Secondary,72.8,1,54.42,5,Double,Middle,Secondary,Self-Employed,Sponsor,0,1,1573.635515471118,3.1,Car,4,0,S2,0,0
+12,Male,No Disability,Primary,43.7,31,25.29,11,No Parents,Very Low,Secondary,Unemployed,Other,6,3,6023.489766954639,60.2,Foot,0,2,P3,0,1
+11,Female,Mental,Primary,36.1,20,26.25,6,No Parents,Low,Primary,Temporary Work,Parents,7,2,5600.24458064798,56.0,Foot,1,3,P1,0,1
+20,Male,Learning,Secondary,41.3,32,48.52,6,No Parents,Impoverished,Non Schooled,Unemployed,Other,7,3,8189.777817545988,27.3,Public Transport,0,2,S1,0,1
+19,Male,Physical,Secondary,36.9,17,46.89,7,Single,Impoverished,Primary,Temporary Work,Other,3,1,6259.160405388391,62.6,Foot,0,3,S4,0,1
+9,Male,Physical,Primary,46.0,24,35.93,10,Double,Impoverished,Primary,Unemployed,Parents,6,2,8891.209955115784,88.9,Foot,2,1,P4,1,1
+10,Female,No Disability,Primary,81.0,3,74.42,6,Double,Middle,Secondary,Part-Time,Other,0,1,2328.3306423461827,4.7,Car,3,0,P3,1,0
+20,Female,Mental,Secondary,38.4,30,42.61,11,No Parents,Impoverished,Primary,Temporary Work,Other,4,3,8324.878623781897,83.2,Foot,1,3,S6,0,1
+7,Female,No Disability,Primary,90.8,4,57.76,6,Double,High,Primary,Self-Employed,Sponsor,1,1,856.3036398961797,8.6,Foot,3,0,P5,0,0
+13,Female,No Disability,Primary,46.5,34,40.48,7,Double,Very Low,Non Schooled,Unemployed,Sponsor,3,3,6236.045824875335,12.5,Car,0,3,P6,0,1
+18,Female,No Disability,Secondary,87.6,1,53.7,3,Double,High,Non Schooled,Part-Time,Other,2,1,762.4429338087743,2.5,Public Transport,5,1,S6,0,0
+19,Female,No Disability,Secondary,44.2,15,47.48,7,Double,Very Low,Primary,Temporary Work,Sponsor,3,1,9368.57057390556,93.7,Foot,0,3,S2,1,1
+9,Female,No Disability,Primary,78.3,0,78.28,6,Double,Middle,Secondary,Unemployed,Sponsor,0,0,2276.7553136984407,9.1,Bicycle,3,0,P3,0,0
+12,Male,Learning,Primary,33.2,38,45.66,8,Double,Impoverished,Non Schooled,Temporary Work,Parents,6,2,6062.947356632325,60.6,Foot,2,2,P4,1,1
+9,Female,Physical,Primary,44.4,23,42.76,11,Single,Low,Primary,Temporary Work,Other,4,0,6683.16181250161,66.8,Foot,1,3,P6,0,1
+7,Male,Learning,Primary,42.9,40,26.34,6,Single,Low,Primary,Self-Employed,Parents,6,3,6280.269171348227,62.8,Foot,2,2,P3,1,1
+9,Male,Physical,Primary,26.5,33,43.31,10,Double,Low,Non Schooled,Temporary Work,Other,3,0,6169.904943269132,61.7,Foot,0,2,P6,0,1
+8,Male,No Disability,Primary,93.6,3,80.39,3,Double,Low,Primary,Part-Time,Other,1,0,2433.829303824915,24.3,Foot,4,0,P3,0,0
+20,Male,Learning,Secondary,48.3,21,27.3,7,No Parents,Very Low,Secondary,Unemployed,Parents,3,0,9582.506872277158,95.8,Foot,0,3,S6,1,1
